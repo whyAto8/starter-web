@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+not yet prepared
+
 ## Information
+
+added information
