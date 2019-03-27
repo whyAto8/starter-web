@@ -13,3 +13,7 @@ not yet prepared
 ## Information
 
 added information
+
+## copyright
+
+stuff
