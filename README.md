@@ -16,4 +16,4 @@ added information
 
 ## copyright
 
-stuff
+stuff - more stuff
